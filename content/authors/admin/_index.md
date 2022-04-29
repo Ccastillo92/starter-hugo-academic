@@ -14,26 +14,31 @@ organizations:
     url: https://www.newschool.edu/nssr/economics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include income inequality, history of economic thought, political economy, economic history, computational economics (max-ent methods and machine learning)
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Income Inequality
+  - History of Economic Thought
+  - Political Economy
+  - Economic History
+  - Computational Economics (max-ent methods and machine learning)
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: The New School for Social Research
+      year: Present
+    - course: MA in Economics
+      institution: The New School for Social Research
+      year: 2021
+    - course: Graduate Studies in Philosophy
+      institution: Pontificia Universidad Católica del Perú
+      year: 2017-2019
+    - course: BSc and Master in Economics
+      institution: Universidad del Pacífico
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +75,8 @@ email: 'castc583@newschool.edu'
 highlight_name: true
 ---
 
-I am a PhD candidate of economics at the New School for Social Research and visiting doctoral student at the Paris School of Economics (PSE). My research interests include income inequality, history of economic thought, political economy, and economic history.  I am a member of the Latin American Society of the History of Economic Thought (ALAHPE) and also a 2022 Summer Research Grantee of the History & Political Economy Project from the Arrighi Center for Global Studies and the SNF Agora Institute at Johns Hopkins University. My current research focuses on the history of neoliberalism, income inequality in the Andean region, and the economics of precarious work. One of my chapters is titled "Waves of Neoliberalism: Revisiting the Authoritarian Capitalism in South America". It explores how transnational intellectual networks have framed economic development and incepted neoliberal common sense in Peru since the 1940s. In my second project, "Long-run Income Inequality in 20th Century Peru", I intend to reconstruct the Distributional National Accounts (DINA) for Peru following the methodology of the World Inequality Lab at the PSE.
+I am a PhD candidate of economics at the New School for Social Research and visiting doctoral student at the Paris School of Economics (PSE). I am a member of the Latin American Society of the History of Economic Thought (ALAHPE) and also a 2022 Summer Research Grantee of the History & Political Economy Project from the Arrighi Center for Global Studies and the SNF Agora Institute at Johns Hopkins University. My current research focuses on the history of neoliberalism, income inequality in the Andean region, and the economics of precarious work. One of my chapters is titled "Waves of Neoliberalism: Revisiting the Authoritarian Capitalism in South America". It explores how transnational intellectual networks have framed economic development and incepted neoliberal common sense in Peru since the 1940s. In my second project, "Long-run Income Inequality in 20th Century Peru", I intend to reconstruct the Distributional National Accounts (DINA) for Peru following the methodology of the World Inequality Lab at the PSE.
 
-My most recent working papers are: "The crooked timber that bore fruit: Peruvian fascist intellectuals of the 1930s and the echoes of their influence nowadays", "Waves of Neoliberalism: Revisiting the Authoritarian patterns of capitalism in South America (1940-1990), part I", and "Factor Income Distribution and Capital Accumulation in Peru, 1940-2019". I also co-authored a book with professor Germán Alarco titled "Covid19: desempleo, desigualdad y precarización en el Perú 2020-2030" and an article in the journal Economía UNAM titled "Elevada desigualdad, pandemias, cambio tecnológico y desempleo: una reseña en tiempos del covid-19". 
+My most recent working papers are: "The crooked timber that bore fruit: Peruvian fascist intellectuals of the 1930s and the echoes of their influence nowadays", "Waves of Neoliberalism: Revisiting the Authoritarian patterns of capitalism in South America (1940-1990), part I", and "Factor Income Distribution and Capital Accumulation in Peru, 1940-2019". In 2022, I co-author a book titled "Covid19: desempleo, desigualdad y precarización en el Perú 2020-2030" and an article in the journal Economía UNAM titled "Elevada desigualdad, pandemias, cambio tecnológico y desempleo: una reseña en tiempos del covid-19". 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
