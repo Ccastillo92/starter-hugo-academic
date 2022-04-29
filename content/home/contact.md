@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: castc583@newschool.edu
-  phone: 888 888 88 88
+  #phone: 888 888 88 88
   address:
     street: 6E 16th Street
     city: New York
